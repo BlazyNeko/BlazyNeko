@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BlazyNeko
-- 👀 I’m interested in C# development.
-- 🌱 I’m currently learning Godot and Blender 3D low-poly.
+- 👋 Hi, I’m blazy (@BlazyNeko)!
+- 👀 I’m interested in music and programming.
+- 🌱 I’m want to learn 3D modelling, drawing and animation.
 
 <!---
 BlazyNeko/BlazyNeko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
